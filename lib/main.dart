@@ -24,9 +24,12 @@ class ConversionesTState extends State<ConversionesT> {
                   text: "°C-°K",
                 ),
                 Tab(text: "°C-°F"),
+                
                 Tab(text: "°F-°C"),
                 Tab(text: "°F-°K"),
+                
                 Tab(text: "°K-°C"),
+                
                 Tab(text: "°K-°F"),
               ],
             ),
